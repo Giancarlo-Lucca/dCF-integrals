@@ -4,6 +4,6 @@ This repository is related with the obtained results of the paper entitled "dCF 
 
 authored by 
 
-G. Lucca, J. C. Wieczynski, G. P. Dimuro, E. N. Borges, J. A. Sanz, T. C. Asmus and Humberto Bustince.
+G. Lucca, J. C. Wieczynski, G. P. Dimuro, E. N. Borges, J. A. Sanz, T. C. Asmus and H. Bustince.
 
-In it you will find a file containing the results obtained in the experimental results. In this file, each sheet corresponds to a fuzzy measure. For each sheet , the rows are related with the different datasets  used in the study and is available the obtained accuracy mean considering the five different dissimilarities used in the study and the original function.
+You will find a file containing the complete experimental results. In this file, each sheet (tab) corresponds to a fuzzy measure. For each sheet, the rows are related to the different datasets and are available the obtained accuracy means considering the five different dissimilarities used in the study and the original function.
