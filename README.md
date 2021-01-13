@@ -1,8 +1,8 @@
 # dCF-integrals
 
-This repository is related with the obtained results of the paper  "dCF -integrals: improving the performance and usability of CF-integrals in fuzzy rule-based classification systems by a generalization based on dissimilarities"
+This repository is related with the obtained results of the paper entitled "dCF -integrals: improving the performance and usability of CF-integrals in fuzzy rule-based classification systems by a generalization based on dissimilarities" submited to the journal IEEE Transactions on Fuzzy Systems.
 
-By 
+authored by 
 
 G. Lucca, J. C. Wieczynski, G. P. Dimuro, E. N. Borges, J. A. Sanz, T. C. Asmus and Humberto Bustince.
 
